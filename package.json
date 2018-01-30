@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "expressjs hack",
+  "main": "app.js",
+  "scripts": {
+    "test": "Hello, World!"
+  },
+  "author": "Justin Aurand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
