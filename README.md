@@ -1,3 +1,3 @@
-# Express.js Hack
+# Express.js API
 
-A hack for spinning up an API skeleton in express.js
+A hack of a skeleton Express.js API. Includes installation, Hello World, and basic routing found on the [expressjs site](https://expressjs.com/).
